@@ -1,2 +1,2 @@
 # flutter_update_package
-Flutter(android 更新)
+Flutter(Flutter 更新)
